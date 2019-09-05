@@ -5,12 +5,18 @@ title: Home
 <html>
   <head>
     <meta charset="utf-8">
+    <script src="/js/{{page.title | downcase}}.js"></script>
     <title>{{ page.title }}</title>
   </head>
   <body>
-      {% include navigation.html %}
-      <h1>{{ "Hello World!" | downcase }}</h1>
-      {{content}}
+
+      
+      {% include header.html %}
+        <div class="wrapper">
+            
+            {{content}}
+
+        </div>
       {% include footer.html %}
     </body>
 </html>
