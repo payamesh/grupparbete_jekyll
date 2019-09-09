@@ -1,0 +1,47 @@
+.header-main{
+    width: 100vw;
+    text-align: center;
+    height: 69px;
+    background-color: black;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-image: linear-gradient( to top, #171717, #111111, #040404, #010101 );
+
+  }
+  
+  nav{
+align-content: center;
+    justify-content: flex-end;
+  }
+  a{
+    text-decoration: none;
+    list-style: none;
+    color:#908d8b;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 12px;
+    margin: 0 20px;
+  }
+
+  
+  
+  .header-main img, a {
+    /* Definiera hur det ser ut när man har tryggt "OK" */
+  
+    transition: width 2s, height 2s, transform 2s;
+    -webkit-transform: rotate(360deg);
+    transition: all 8s ease-in-out;
+    -webkit-transition-duration: 2s;
+  
+    font-family: SF UI, SF Display, Helvetica Neue, Arial, sans-serif;
+
+    border-radius: 5px;
+    text-align: center;
+    cursor: default;
+    overflow: hidden;
+  
+  }
+
+
+  
