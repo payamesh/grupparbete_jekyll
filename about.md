@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About"
+background-image: url(/assets/img/ti9-bg.jpg);
 
 ---
 <div class="hero-wrapper">   
