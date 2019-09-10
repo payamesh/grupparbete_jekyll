@@ -7,12 +7,13 @@
     align-items: center;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     background-image: linear-gradient( to top, #171717, #111111, #040404, #010101 );
-
+margin-bottom: 50px;
   }
   
   nav{
 align-content: center;
     justify-content: flex-end;
+    grid-column:2/4;
   }
   a{
     text-decoration: none;
@@ -22,6 +23,10 @@ align-content: center;
     letter-spacing: 4px;
     font-size: 12px;
     margin: 0 20px;
+    a:hover{
+      text-decoration: underline;
+      text-decoration-color: rgb(255, 0, 0);
+    }
   }
 
   

@@ -1,10 +1,9 @@
-@import 'nav';
-@import 'footer';
-@import 'hero';
+
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 
+/* !!! BODY !!!  */
 body {
   background-image: url(http://cdn.dota2.com/apps/dota2/images/blog/ti9_bg.jpg);
   background-color: #000000;
@@ -26,6 +25,25 @@ body {
 
   margin:0;
 }
+.wrapper{
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
+  color:#908d8b;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  h1,h2,h3,p{
+    max-width: 70%;
+    text-align: center;
+
+  }
+}
+
+
+
+
+
+
 
 .button {
   color: red;
@@ -34,3 +52,36 @@ body {
     
   } */
 }
+
+
+header,main,footer { padding: 1em; }
+h1,h2 { 
+  font-family: Opticorvinus; 
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 3em;
+  
+}
+h2 { 
+  font-size: 2em;
+}
+
+hr {
+  border: 0;
+  border-bottom: 2px solid #f00;
+}
+a {
+
+  font-weight: bold;
+  text-decoration: none;
+  a:hover {
+    text-decoration: underline;
+    text-decoration-color: rgb(0, 68, 255);
+  }
+}
+@import 'nav';
+@import 'footer';
+@import 'hero';
+@import 'ti';
