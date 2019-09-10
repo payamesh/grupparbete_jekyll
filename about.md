@@ -23,7 +23,7 @@ The scenario was developed with the "World Editor" of Reign of Chaos.</p>
 
 <h2 style="margin:auto;">
 Teamplay and Roles
-</h2>'
+</h2>
 
 <div class="subheader-div">
 <h3 class="sub-header">Carry</h3>

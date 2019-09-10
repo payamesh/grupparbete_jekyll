@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-@import 'nav';
-@import 'footer';
-@import 'hero';
-@import 'ti';
-=======
-
->>>>>>> header/footer
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
@@ -55,7 +47,7 @@ body {
   h1,h2,h3,p{
     max-width: 70%;
     text-align: center;
-    margin:auto;
+
   }
 }
 
@@ -99,11 +91,6 @@ hr {
   border-bottom: 2px solid #f00;
 }
 a {
-<<<<<<< HEAD
-  color: #fff;
-=======
-
->>>>>>> header/footer
   font-weight: bold;
   text-decoration: none;
   a:hover {
@@ -111,10 +98,7 @@ a {
     text-decoration-color: rgb(0, 68, 255);
   }
 }
-<<<<<<< HEAD
-=======
 @import 'nav';
 @import 'footer';
 @import 'hero';
 @import 'ti';
->>>>>>> header/footer
