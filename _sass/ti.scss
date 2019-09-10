@@ -1,27 +1,11 @@
 .aegis,.f2p,.trueSight{
-  padding-bottom: 60px;
-  margin-bottom: 100px;
+  margin: 20% 0 20% 0;
 }
 
 h1,p,h2,h3{
   margin: auto;
 }
-.aegis{
-/*   background-image: url('http://cdn.dota2.com/apps/dota2/images/international2019/overview/bg_overview_main.jpg');
 
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-  width: 100%; */
-}
-.f2p,.aegis{
-  padding-top: 40px;
-  margin-top: 60px;
-
-}
-.trueSight{
-
-}
 
 
 * {
@@ -62,3 +46,24 @@ table tr th :first-child, table tr td :first-child {
 table tr th :last-child, table tr td :last-child {
   margin-bottom: 0;
 }
+
+.trueSight{
+  transition: all 0.5s ease-in-out;
+  opacity: 0;
+  transform: translateX(300px);
+}
+.f2p{
+  transition: all 0.5s ease-in-out;
+  opacity: 0;
+  transform: translateX(-300px);
+}
+.ti-table-header{
+  transition: all 1.5s ease-in-out;
+  opacity: 0;
+}
+
+.visible{
+  transform: translateX(0);
+  opacity: 1;
+}
+

@@ -5,7 +5,7 @@ title: "The International"
 
 ---
 <div class="aegis">
-<audio id="welcome" src="/assets/gaben-welcome.mp3" ></audio>
+<audio id="welcome" src="/assets/gabe-welcome.mp3" ></audio>
 <h1>The International</h1>
 
  <br>
@@ -15,7 +15,7 @@ Since 2013, the tournament's prize pool has been crowdfunded via a battle pass s
 </p>
 </div>
 
-<h2>The international Winners</h2>
+<h2 class="ti-table-header ">The international Winners</h2>
 
 | Year | team            | Pirzepool   | Arena, City                  | From          |
 |------|-----------------|-------------|------------------------------|----------- ---|
