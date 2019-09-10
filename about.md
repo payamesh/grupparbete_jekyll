@@ -18,15 +18,12 @@ The scenario was developed with the "World Editor" of Reign of Chaos.</p>
 <img src="/assets/img/roc.jpeg" class="hero-image-wc3"/> 
 
 </div>
-<<<<<<< HEAD
-<div class="alch-gif" style="margin-left:auto;margin-right:auto; margin-top:40px; width:50%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/D1lcEHYssYZ8Y" width="100%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" ></iframe></div>
-=======
 
 <img class="alch-diff" data-hasAnimated="false" src="/assets/img/alch-diff.jpg">
 
 <h2 style="margin:auto;">
 Teamplay and Roles
-</h2>
+</h2>'
 
 <div class="subheader-div">
 <h3 class="sub-header">Carry</h3>
@@ -67,4 +64,3 @@ Junglers can clear neutral camps at the start of the game. This allows for them 
 </p>
 </div>
 
->>>>>>> header/footer
