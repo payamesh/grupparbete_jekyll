@@ -4,8 +4,6 @@ title: "About"
 
 ---
 <div class="hero-wrapper">   
-<h2 class="hero-h2">Where did DotA start?</h2>
-<img src="/assets/img/roc.jpeg" class="hero-image-wc3"/> 
 <p class="about-text">
 <span class="line line1"></span>
 <span class="dota-text">Defense of the Ancients (DotA)</span> 
@@ -15,6 +13,8 @@ title: "About"
 <br>
 <br>
 The scenario was developed with the "World Editor" of Reign of Chaos.</p>
+
+<img src="/assets/img/roc.jpeg" class="hero-image-wc3"/> 
 
 </div>
 <div class="alch-gif" style="margin-left:auto;margin-right:auto; margin-top:40px; width:50%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/D1lcEHYssYZ8Y" width="100%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" ></iframe></div>
