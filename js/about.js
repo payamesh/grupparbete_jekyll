@@ -89,7 +89,7 @@
                       loop: false
                   })
                   .add({
-                      targets: subHeaders[i+3],
+                      targets: subHeaders[header],
                       duration: 400,
                       opacity: 1,
                       translateY: 0,

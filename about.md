@@ -65,5 +65,5 @@ Junglers can clear neutral camps at the start of the game. This allows for them 
 </p>
 </div>
 
-<div style="height:150px;"></div>
+<div style="height:200px;"></div>
 
