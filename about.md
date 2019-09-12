@@ -15,7 +15,8 @@ background-image: url(/assets/img/ti9-bg.jpg);
 <br>
 The scenario was developed with the "World Editor" of Reign of Chaos.</p>
 
-<img src="/assets/img/roc.jpeg" class="hero-image-wc3"/> 
+
+<img src="/assets/img/roc.jpeg" data-isClicked="false" class="hero-image-wc3">  
 
 </div>
 
@@ -63,4 +64,6 @@ Supports are heroes who keep their allies alive and give them opportunities to e
 Junglers can clear neutral camps at the start of the game. This allows for them to farm without interfering with the other lanes, which can allow allies to benefit from soloing their lane more. Junglers have skills that allow them to convert neutral creeps, summon units, or sustain themselves efficiently.
 </p>
 </div>
+
+<div style="height:150px;"></div>
 

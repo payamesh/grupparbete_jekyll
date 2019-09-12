@@ -72,7 +72,7 @@
                       easing: 'linear',
 
                   });
-
+                  
           } else {
               header.style.opacity = 0.1;
 
@@ -89,7 +89,7 @@
                       loop: false
                   })
                   .add({
-                      targets: subHeaders[i+1],
+                      targets: subHeaders[i+3],
                       duration: 400,
                       opacity: 1,
                       translateY: 0,
